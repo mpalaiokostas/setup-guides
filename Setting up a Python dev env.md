@@ -34,7 +34,7 @@ Typing python in a powershell window should now return the python that we just i
 
 ### Set-up
 Enforce Poetry to install new venvs in the project folder
-poetry config --local virtualenvs.in-project true
+poetry config virtualenvs.in-project true
 
 
 ## VS Code
